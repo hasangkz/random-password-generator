@@ -1,4 +1,4 @@
-# I developed random password generator with Html, Css and Javascript.
+# I developed random password generator with html, css and javascript
 
 # About my app
 
@@ -6,7 +6,7 @@ I designed it so that users can create their passwords both easily and securely.
 They will be able to create a 20-digit password consisting of letters, symbols and numbers with one click.
 I also added a button where they can easily crack this password if they want.
 
-# here are the images from my app:
+## here are the images from my app:
 
 ![img](https://i.hizliresim.com/aiez30u.png?raw=true "Title")
 
